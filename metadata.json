@@ -1,0 +1,6 @@
+{
+  "name": "Front Porch CCTV Monitor & Control Panel",
+  "description": "Smart home control dashboard and real-time doorbell monitor designed for the Waveshare ESP32-S3 Touch LCD 7-inch display with Aqara G400 doorbell feed and entryway automation controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
